@@ -1,0 +1,25 @@
+
+*****************
+Network Training Params for 'May_31_13,10,18'
+
+Base network (None if new): None
+
+Setup parameters:
+{
+Num cohomology matrices / pair : 2,
+Total time elapsed             : 0,
+Random seed                    : 132456789,
+Training set filename          : "/home/akulkarn/Gauss-Manin-data/",
+}
+
+Network architecture hyperparameters:
+{
+DoPCA       : True,
+PCAk        : 23,
+EpochNum    : 500,
+BatchSize   : 1000,
+StepSizeMLP : 0.0001,
+StepSizeCNN : 0.0001,
+Balancing   : True,
+}
+
